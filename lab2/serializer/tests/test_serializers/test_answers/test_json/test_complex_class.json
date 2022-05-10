@@ -1,0 +1,57 @@
+{
+    "representation": "<class 'tests.test_serializers.test_data.SomeClass'>",
+    "name": "SomeClass",
+    "type": "type",
+    "class_attr": {
+        "__init__": {
+            "representation": "<function SomeClass.__init__ at 0x7fa0d0f11ca0>",
+            "name": "__init__",
+            "type": "function",
+            "func_param": {
+                "args": [
+                    "self"
+                ],
+                "varargs": null,
+                "varkw": null,
+                "defaults": null,
+                "kwonlyargs": [],
+                "kwonlydefaults": null,
+                "annotations": {}
+            },
+            "object": "fCQE71poj50001elqie{LvLhdRC#b^lzo&aj0j<JXJc=5ZgiAO0gMlDZ*y;MY<XdFXJc=5ZgiAO0E`Z6cW-WNd0}#AV{dhCbd*Z~j0bLPZ)0I>bCgQ~j0tmeVPk7^X?kUpO9G4qW^7?+bCgR%j09tEWMz~?5@Z2<0AB!f0fPX10AB)R08;>zj0R(GZgX^Vluk=~hLns2ZeeX@bCiq*Zgp*9Wpb2^3Qu%sWpYDoVRLhoj0JCWXk~Jghm?#6c42aEVQpn|l#B#(Wo%}Yg_Mj4W@&6?ZeeX@l#F&SRdZ!>b1!psaAk6HZ*FO0FGO!+b!}yCbaOAzn9!lnpD$2yZ)b90ZEb08XDw83Z)|fdVQyqCRdi`=X>@62b1!URVlpptWpZg@Y-xIBaxZjcb98erbY*jNUvp)0X<=+>dS!BRFLY&dbYEm)bYU)Vd6bL<ZeeX@l#B>pUukY>bYEYTj0<LIa&vTSX>Mh1Z<I?4j0S9OZ**Z|ltTmn0R{n-j0k3OWo33@a&wd^j0j_8Y;1O6a&wd^b&L!~b#7yHX>V>+d2nTveUvDS2WM<=Vqt7^lzo(F4}Fv<j1F>TaB^jHWo~p~bZKvHl#DezV{Bn_b08;lWpi|ME_7vcbYF92a%o{~X?kUHb1rmcb97&1VRT_GPjqNyazkukb8{y?lxP=d4~ztKd2nTvj0ALfaAlN?3S(?xb8}x|baZl*eUxYzeUvC@BaARSW_503bZKvHAWw8?WpYDoVRLgXUtei%X>?y-AYpVMFnBj+VK8JcW-&2iF)%)qXcuT0XeEpYW_503bZKvHl#B{yb#7x{aA9&`ZIpeKD2xPQa%XdtU6g1OVT=cMVRB(|XLFQJj0JXKa%*>#PK*d-WoBV@Y;<#!PK*j`cW-WNd0}#AbCg|_j1FseZ*FXPWMyVyb!>EVlunEbVQy}3bYXO9Z*FsxeUx>K25(|&Wn*-dSXBZ50A@o`L?$p&QaLd&FfcJ?Y;kF2drWprXk=1DBVt}`dT%CSYA|X%N?1x`JvCZqX+cjgXH9HGS}J)vO<6oxWJXv@V?8xmXK6uCFhyWmHe**US59OweIr3udt_)sVq_{>erhmcOi)@WFiAdQLuXNbYA|$dWmZsYH(ppjYgKShIY%^cS6(+iD`G=uQYC6IIdnx=O?rMmGgCZ9B``rkAy6<lJ3e}9Fj6Q-T4z{ZR%~@{MOR`uIAc&+W<p3SY$HM@BUVvxZhUNbP-b>)BSJnsR#HPuURp$MC~aymK}kzlEmvM9Y$HNGcUV3&Ren}caBo#=LrgqxVmD`4OGZplPH<OnT0BQuW>RoWOnz-{bXr7iaYAA-B|t+cG;b?)Mo4XVLs(2SVSQRfFh4RyZB=zbSvw&|P+DarR4`&%OKmw~T1!$xMoVlqK}SL`d3RwYZ+m`NKWkM;Mod{IWMW}YIdfNVX?!wbH)mKuR#9hlH&<|4J7Qv4Dr!zubue!!R!Tl;VQeEpBOz8%aBo#=Flr`!SUyd3LREBUG;%X_VmUx!IXFv7T4g_aH*9rCM^iF2W=3FQSyyyfOlodRD{Lb|K6hayMJqX0QbS^HL{%|sSXXZ*M?qFnLt<`3QgLo{O>;YNbz)jec1Th~BVt}`dT%CSYA|9jNm?jBLp@?cX*p3?V`E2qYA|YiIafbkD}G{OQg>HsFkw7JS}J-qS66g0duK6OeoAs;WGzWjYA_^KVOLFgR(WC}K1Eh+b!}E!MJAMWb7(AmlqhH}U6g1OVQ4T;XfaM`GEQhSU6g1wPG~lLlyzu0j80}lQ9?j4FfcGMFfcGNbU|TqM^9p5Pd0K_aA|xpVmD`4K~_;`bvIXVT03E4St@EyRdq0LDOOb`d2~=}aZY(*dTVuSVmUBxMr?98ly!4x7ibu0GER&KV{C78b#i5tPK*R(X=8MheUyv}Yj<R2W?^+~baRwWb#*Q"
+        },
+        "func_in_class": {
+            "representation": "<function SomeClass.func_in_class at 0x7fa0d0f11d30>",
+            "name": "func_in_class",
+            "type": "function",
+            "func_param": {
+                "args": [
+                    "self",
+                    "x",
+                    "y"
+                ],
+                "varargs": null,
+                "varkw": null,
+                "defaults": [
+                    1
+                ],
+                "kwonlyargs": [],
+                "kwonlydefaults": null,
+                "annotations": {}
+            },
+            "object": "fCQBz0ssI20001elqie{LvLhdRC#b^lzo&aj0j<JXJc=5ZgiAO1B?%FZ*y;MY<XdFXJc=5ZgiAO0E`Z6cW-WNd0}#AV{dhCbd*Z~j0bLPZ)0I>bCgR1j0tmeVPk7^X?kUpO9G4qW^7?+bCgR%j09tEWMz~?415860v7;u02BaI0F;adV{dMAbaRwWg_Mj1ZeeX@bCiq<XKZg`VQgP+b#0V|l#B>=VRCL^ZDn(mj0AIKY-W^<0eF;*0eO^%l#B>wX>4U~VQpoUjCL<ob7gXKFLQNpWpZ<GZfRpLL~mntZDnqBb1%@C(4o+uFHmxCXL4a}ZE0?2EmUuBY;!GPZe%T0bZKm9bZKRCFKl6AGB0ywa%o{~X?kUHFLY&dbaO9sWpi|2b7gXAVQgu7WpZ;bbY*jNUu0o)VJ>ial#B#!VQpoUj16XWZew3*ZeL?;VRLhoj0<LIa&vTSX>Mh1Z<I?8j0S9OZ**Z|ltTgl0hEjgW^!d^c42aJlqrk|V`Xe?c42aJlqq$L3`TWsV{~b6Zd7@2Wt4rCD2xYZY;R&=Y;%--lxPlplqif2a%FIGWpib2bYXO9Z*G)~0x>g`j0ALfaAlN?18Ht_l#B*%Vrpe$bd-z-W<ySBZ$&1Qb#rJJXc&wLWMyVyb!>EVluH4Hl#B;sY;SXQa%GfGj09w9V|0{#l#B{%cVuN|VRdYDbCgbXbuI"
+        }
+    },
+    "func_param": {
+        "args": [
+            "self"
+        ],
+        "varargs": null,
+        "varkw": null,
+        "defaults": null,
+        "kwonlyargs": [],
+        "kwonlydefaults": null,
+        "annotations": {}
+    },
+    "object": "fCQB?000000001tAarGObaO6rWpi|2b7gXAVQgu7WpZ;abY*jNUu0o)VU&ysQ*Ui$Lu_GlbCi>mE&"
+}

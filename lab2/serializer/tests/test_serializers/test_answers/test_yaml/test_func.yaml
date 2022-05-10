@@ -1,0 +1,15 @@
+func_param:
+  annotations: {}
+  args:
+  - y
+  - z
+  defaults:
+  - 100
+  kwonlyargs: []
+  kwonlydefaults: null
+  varargs: null
+  varkw: null
+name: func
+object: fCQBt0ssI20001elqie{LvLhdRC#b^lzo&aj0j<JXJc=5ZgiAO0*nuEZ*y;MY<XdFXJc=5ZgiAO0E`Z6cW-WNd0}#AV{dhCbd*Z~j0bLPZ)0I>bCgR1j0tmeVPk7^X?kUpO9G4qW^7?+bCgR%j09tEWMz~?5PSi202cs#0(=5|02lyM0F;adV{dMAbaRwWg_Mj1ZeeX@bCiq<XKZg`VQgP+b#0V|l#B>=VRCL^ZDn(mi~)I+i~)L-i~)F*hm?#6W@&6?ZeeX@l#F&SRdZ!>b1!psaAk6HZ*FO0FGO!+b!}yCbaOAzn9!lnpD$2yZ)b90ZEb08XDw83Z)|fdVQyqCRdi`=X>@62b1!URVlpptWpZg@Y-xIBaxZjcb98erbY*jNUvp)0X<=+>dS!BRFLY&dbYEm)bYU)Vd6bL<ZeeX@l#B#sb#7ynj0<LIa&vTSX>Mh1Z<I?Cj0S9OZ**Z|ltTmn0SEz<j0k3OWo33@a&wd^j0j_8Y;1O6a&wd^b&L!~b#7yHX>V>+d2nTveUvDS2WM<=Vqt7^lzo(F4t<m;j1F>TaB^jHWo~p~bZKvHl#Bu~Gn9-3ba`-Pl#ByuZgiB425(|&Wn*-dj0a{zPH1mMCX{t^XcuT0j0j|9W?^+~baRwTWQCNB2V-n+b9HiMlunEUWNBk`lzo(p3Tt;{WoBV@Y;<#!PIYxI
+representation: <function func at 0x7fd00e7443a0>
+type: function

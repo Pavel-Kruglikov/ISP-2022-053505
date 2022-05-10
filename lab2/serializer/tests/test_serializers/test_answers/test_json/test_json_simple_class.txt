@@ -1,0 +1,36 @@
+{
+    "representation": "<class 'tests.test_serializers.test_data.OtherClass'>",
+    "name": "OtherClass",
+    "type": "type",
+    "class_attr": {
+        "__init__": {
+            "representation": "<function OtherClass.__init__ at 0x7fc0daf16c10>",
+            "name": "__init__",
+            "type": "function",
+            "func_param": {
+                "args": [
+                    "self"
+                ],
+                "varargs": null,
+                "varkw": null,
+                "defaults": null,
+                "kwonlyargs": [],
+                "kwonlydefaults": null,
+                "annotations": {}
+            },
+            "object": "fCQD&0RR910001elqie{LvLhdRC#b^lzo&aj0j<JXJc=5ZgiAO0gMlDZ*y;MY<XdFXJc=5ZgiAO0E`Z6cW-WNd0}#AV{dhCbd*Z~j0bLPZ)0I>bCgQ~j0tmeVPk7^X?kUpO9G4qW^7?+bCgR%j09tEWMz~?3S<F%0AB!P08;>zj0R(GZgX^VlunEWb98cPZfBH+l#B&#VQpn|lxPfvl#B>=VRCL^ZDn(mj0AIKY-W^&l#B>wX>4U~VQpoUjCL<ob7gXKFLQNpWpZ<GZfRpLL~mntZDnqBb1%@C(4o+uFHmxCXL4a}ZE0?2EmUuBY;!GPZe%T0bZKm9bZKRCFKl6AGB0ywa%o{~X?kUHFLY&dbaO9sWpi|2b7gXAVQgu7WpZ;bbY*jNUu0o)VJ>ial#B#!VQpoUj0j&}X>MtBUtg4r3ub9@b98KJZe?z7luHGS25fF`bYWtYLjnK+l#B>wa%E+9VRCbnDU1kXWo&GAVRCbnDRqntMs;pubZKvHRC#b^lzo&aj0b0IZ(?C=bCi9QXccG{j0j|9W?^+~baRwWj0a<EZ*z5WWt2{g1Y~Jrbd-IRj0$UaWMyVyb!>EVlumVZE&"
+        }
+    },
+    "func_param": {
+        "args": [
+            "self"
+        ],
+        "varargs": null,
+        "varkw": null,
+        "defaults": null,
+        "kwonlyargs": [],
+        "kwonlydefaults": null,
+        "annotations": {}
+    },
+    "object": "fCQB@000000001tAarGObaO6rWpi|2b7gXAVQgu7WpZ;abY*jNUu0o)VU&ytPjqNyazkukb90oFlr8"
+}

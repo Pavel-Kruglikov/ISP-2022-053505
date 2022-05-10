@@ -1,0 +1,35 @@
+representation = "<class 'serializer.tests.test_serializers.test_data.SomeClass'>"
+name = "SomeClass"
+type = "type"
+object = "fCQC2000000001tD|2OXX<=+>dS!AhbY*jNb1rmcb97&GWpZg@Y-xIBa&s<pWpi|2WMOn+l#B^eZ*65mY+-YAl#`S$"
+
+[func_param]
+args = [ "self",]
+kwonlyargs = []
+
+[class_attr.__init__]
+representation = "<function SomeClass.__init__ at 0x7fb38174a430>"
+name = "__init__"
+type = "function"
+object = "fCQBV1^@s60001elqie{LvLhdRC#b^lzo&aj0j<JXJc=5ZgiAO0gMlDZ*y;MY<XdFXJc=5ZgiAO0E`Z6cW-WNd0}#AV{dhCbd*Z~j0bLPZ)0I>bCgQ~j0tmeVPk7^X?kUpO9G4qW^7?+bCgR%j09tEWMz~?5@Z2<0AB!f0fPX10AB)R08;>zj0R(GZgX^Vluk=~hLns2ZeeX@bCiq*Zgp*9Wpb2^3Qu%sWpYDoVRLhoj0JCWXk~Jghm?#6c42aEVQpn|l#B#(Wo%}Yg_Mj4W@&6?ZeeX@l#F&SRdZ!>b1!psaAk6HZ*FO0FGO!+b!}yCbaOAzn9!lnpD$2yZ)b90ZEb08XDw83Z)|fdVQyqCRdi`=X>@62b1!URVlpptWpZg@Y-xIBaxZjcb98erbY*jNUvp)0X<=+>dS!BRFLY&dbYEm)bYU)Vd6bL<ZeeX@l#B>pUukY>bYEYTj0<LIa&vTSX>Mh1Z<I?4j0S9OZ**Z|ltTmn0R{n-j0k3OWo33@a&wd^j0j_8Y;1O6a&wd^b&L!~b#7yHX>V>+d2nTveUvDS2WM<=Vqt7^lzo(F4}Fv<j1F>TaB^jHWo~p~bZKvHl#D<;V{Bn_b08;kWpZg@Y-xIBaxQdbb98eqbY*jNUvp)0X<=+>dS!BRE_7vcbYEm)bYU(}bZBLALu_Glb0<EOXcuS?j0ALfaAlN?1ax_DWt5BxV{Bn_b6;U}baIq^lxP@zlqhH;j4(WAb#7yHX>V>IPjqNyazkukb8{|VUukY>bYEW}VRRrccsFKZGdM9fG+{GgFg}!M7ibu0C5#AWb#7yHX>V?nj0$FTZew3?VRB(@lzo&aj09nFXLFQYlxP!Sj0bjMa$$03bCgbu1$JR_Yj>1Rj0j|9W?^+~baRwWj0$UaZ*FXPVRC14lwFjJ4r_OBZftpEWoBV@Y;<#!PK*m-Zf<XMVRUJ4ZgZ4<ly!^-Z(?d?V|0{QRRRD2W<ya#CNNS`IWaIWFfnCpacO0HOm<9YWKu&TVqR=|Zzf@CFlszXSW06(HCktBK~FGeO>9J3DtS9iSv*)|Mp#N?JvCZqX+cjgMPOPsV^=L#PGm5BBSBVsWN1TTWGY&IYA|9<P+BQ4Nj_pjXHkA?Fm!EYR#0m<URXbCRd7!^M>KI)UN=80Vnb(AC2BA^bVXN9dVW7MQ#?i`FhN2gP%t<<K6+{}QYc4SXINfVY;|r$S7JFhV^CUVLP#rYBSI!4R#9+nd~A47W_D~NLOwlKQbSB$T10LrZE7$<NlRHRS6(J;BSJoRSUxmWepXR%Z&hkTOgwL5H)mK&Modvoa940zJV#n)QgBR6er;}aT10MfLSiu`Ktm`rZ!2|1NNspSSWGlweOg5@KQcvaRdqsHJ0V9<T4g0vFk)IuZ8>6EOHxBdOKdhlM?x@pcVQ)Odwy6yYgI@_Oj#ymVqs4?b60R_d@^D;XIMd2QD=2GS8!T8Vq#e;YED&kFmEYVN<L{}Y$HM=Ay!dvZ&hkAY9@VHK23B&Rdi=Gax-;eIY44LI7>=eWj}g1Y;{OSQ!+JXMqpxDS9DoSYHmv_Y$HNGcVQ((D>+tDLt<`3RWWN=S8paqK~_>jVs1oIac*=?b31T#Vp>afNK!*1VqR=|Zzf@CFk&!CS|~q5Jz_&?IZ;?+V@G>xFlu}`S3h1Weqv!#cUNjKVLU}zDta|nS9CIaXE9lRN^)XkElE;pFeFuBS50|Vd14_xMOJKeZB|-ECX{t^Xe@n{C}=KSlxP!SXfRG_F-~YQPG~b-lxQ_hXf}P6b!a$@TxLU2Lo+ZiFfcGMFfcK6M0_$&SXewgD?VgXAwg(jSt@EyVli@UV`4csCP!CrT4z96EqF;nVJ34ta940?d@@%}Pi`x0BSL#(Vp>8>K}>aDM{Ht4X+CX5CX{t^XcuT0XfjTW2V-n+b9HiMlunEUWNBk`lzo(p3Tt;{WoBV@Y;<#!PIYxI"
+
+[class_attr.func_in_class]
+representation = "<function SomeClass.func_in_class at 0x7fb38174a4c0>"
+name = "func_in_class"
+type = "function"
+object = "fCQBz0ssI20001elqie{LvLhdRC#b^lzo&aj0j<JXJc=5ZgiAO1B?%FZ*y;MY<XdFXJc=5ZgiAO0E`Z6cW-WNd0}#AV{dhCbd*Z~j0bLPZ)0I>bCgR1j0tmeVPk7^X?kUpO9G4qW^7?+bCgR%j09tEWMz~?415860v7;u02BaI0F;adV{dMAbaRwWg_Mj1ZeeX@bCiq<XKZg`VQgP+b#0V|l#B>=VRCL^ZDn(mj0AIKY-W^<0eF;*0eO^%l#B>wX>4U~VQpoUjCL<ob7gXKFLQNpWpZ<GZfRpLL~mntZDnqBb1%@C(4o+uFHmxCXL4a}ZE0?2EmUuBY;!GPZe%T0bZKm9bZKRCFKl6AGB0ywa%o{~X?kUHFLY&dbaO9sWpi|2b7gXAVQgu7WpZ;bbY*jNUu0o)VJ>ial#B#!VQpoUj16XWZew3*ZeL?;VRLhoj0<LIa&vTSX>Mh1Z<I?8j0S9OZ**Z|ltTgl0hEjgW^!d^c42aJlqrk|V`Xe?c42aJlqq$L3`TWsV{~b6Zd7@2Wt4rCD2xYZY;R&=Y;%--lxPlplqif2a%FIGWpib2bYXO9Z*G)~0x>g`j0ALfaAlN?18Ht_l#B*%Vrpe$bd-z-W<ySBZ$&1Qb#rJJXc&wLWMyVyb!>EVluH4Hl#B;sY;SXQa%GfGj09w9V|0{#l#B{%cVuN|VRdYDbCgbXbuI"
+
+[func_param.annotations]
+
+[class_attr.__init__.func_param]
+args = [ "self",]
+kwonlyargs = []
+
+[class_attr.func_in_class.func_param]
+args = [ "self", "x", "y",]
+defaults = [ 1,]
+kwonlyargs = []
+
+[class_attr.__init__.func_param.annotations]
+
+[class_attr.func_in_class.func_param.annotations]

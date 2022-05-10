@@ -1,0 +1,30 @@
+class_attr:
+  func_in_class:
+    func_param:
+      annotations: {}
+      args:
+      - self
+      - x
+      - y
+      defaults:
+      - 1
+      kwonlyargs: []
+      kwonlydefaults: null
+      varargs: null
+      varkw: null
+    name: func_in_class
+    object: fCQBz0ssI20001elqie{LvLhdRC#b^lzo&aj0j<JXJc=5ZgiAO1B?%FZ*y;MY<XdFXJc=5ZgiAO0E`Z6cW-WNd0}#AV{dhCbd*Z~j0bLPZ)0I>bCgR1j0tmeVPk7^X?kUpO9G4qW^7?+bCgR%j09tEWMz~?415860v7;u02BaI0F;adV{dMAbaRwWg_Mj1ZeeX@bCiq<XKZg`VQgP+b#0V|l#B>=VRCL^ZDn(mj0AIKY-W^<0eF;*0eO^%l#B>wX>4U~VQpoUjCL<ob7gXKFLQNpWpZ<GZfRpLL~mntZDnqBb1%@C(4o+uFHmxCXL4a}ZE0?2EmUuBY;!GPZe%T0bZKm9bZKRCFKl6AGB0ywa%o{~X?kUHFLY&dbaO9sWpi|2b7gXAVQgu7WpZ;bbY*jNUu0o)VJ>ial#B#!VQpoUj16XWZew3*ZeL?;VRLhoj0<LIa&vTSX>Mh1Z<I?8j0S9OZ**Z|ltTgl0hEjgW^!d^c42aJlqrk|V`Xe?c42aJlqq$L3`TWsV{~b6Zd7@2Wt4rCD2xYZY;R&=Y;%--lxPlplqif2a%FIGWpib2bYXO9Z*G)~0x>g`j0ALfaAlN?18Ht_l#B*%Vrpe$bd-z-W<ySBZ$&1Qb#rJJXc&wLWMyVyb!>EVluH4Hl#B;sY;SXQa%GfGj09w9V|0{#l#B{%cVuN|VRdYDbCgbXbuI
+    representation: <bound method SomeClass.func_in_class of <serializer.tests.test_serializers.test_data.SomeClass
+      object at 0x7fd00e7591c0>>
+    type: method
+  number: 123
+  other:
+    class_attr:
+      string: string
+    object: fCQCL000000001tD|2OXX<=+>dS!AhbY*jNb1rmcb97&GWpZg@Y-xIBa&s<pWpi|2WMOn+l#B{bbZBLALu_GlbCi>mDS?!Il#B**baH8KXOw6Kb7C$
+    representation: <serializer.tests.test_serializers.test_data.OtherClass object
+      at 0x7fd00e759220>
+    type: serializer.tests.test_serializers.test_data.OtherClass
+object: fCQC$000000001tD|2OXX<=+>dS!AhbY*jNb1rmcb97&GWpZg@Y-xIBa&s<pWpi|2WMOn+l#B^eZ*65mY+-YAl#`Sxfs}oeD2xVfb!}p0a+FJZj0JCWXk~JgXaI}~PjqNyazkukb90oFlqrFfeUyv_b98cPZfBHe3v*(1VlD
+representation: <serializer.tests.test_serializers.test_data.SomeClass object at 0x7fd00e7591c0>
+type: serializer.tests.test_serializers.test_data.SomeClass
